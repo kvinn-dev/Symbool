@@ -2,7 +2,7 @@
 
 **Symbool** adalah aplikasi web edukatif berbasis Python dan JavaScript yang dirancang untuk menyederhanakan ekspresi logika Boolean secara otomatis menggunakan metode populer seperti **Simplify**, **Karnaugh Map (K-Map)**, dan **Quine-McCluskey**. Aplikasi ini ideal untuk mahasiswa, dosen, dan praktisi logika digital atau Matematika Diskrit.
 
-🔗 **Coba aplikasi langsung**: [[https://symbool.onrender.com](https://symbool-app.onrender.com/))
+🔗 **Coba aplikasi langsung**: [[https://symbool-app.onrender.com]](https://symbool-app.onrender.com))
 
 ---
 
