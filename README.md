@@ -18,22 +18,6 @@
 - 🧠 Proses logika ditampilkan secara transparan
 - 📤 Fitur ekspor tabel kebenaran ke format CSV
 
----
-
-## 📁 Struktur Direktori
-
-symbool/
-├── app.py # Server utama (Flask)
-├── optimizer.py # Modul logika Boolean dan optimasi
-├── templates/
-│ └── index.html # Antarmuka pengguna
-├── static/
-│ ├── style.css # Gaya visual aplikasi
-│ └── script.js # Logika frontend dan interaksi API
-├── requirements.txt # Daftar dependensi Python
-└── README.md
-
----
 
 ## 🚀 Cara Menjalankan Secara Lokal
 
